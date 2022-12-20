@@ -12,9 +12,6 @@ if (lightColor == 'on'){
     document.body.style.background = 'black'
     
 }
-
-
-
 function updateBulb(){
     let image = document.getElementById('image');
     if(lightColor == 'on') {
